@@ -3,6 +3,4 @@
 - Dilfer Kongphouthakhoun - Assets
 - Weston Graham - Map Design
 - David Nguyen - Programmer
-
-
 - Itch.io: https://justarandompanda.itch.io/cyber-trouble-v12
