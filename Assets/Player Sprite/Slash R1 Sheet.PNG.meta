@@ -90,6 +90,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -640,6 +641,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Slash R1 Sheet_16: 1705411013281255326
+      Slash R1 Sheet_5: -1696982015899082448
+      Slash R1 Sheet_12: -1143361922180932908
+      Slash R1 Sheet_6: 3726180710796763713
+      Slash R1 Sheet_15: -3874963329796910836
+      Slash R1 Sheet_11: -3571036396371612724
+      Slash R1 Sheet_3: 6957585487297166187
+      Slash R1 Sheet_9: 681546123293130929
+      Slash R1 Sheet_19: -7813698066146390457
+      Slash R1 Sheet_17: 5733377407443770611
+      Slash R1 Sheet_14: -3330808085720231961
+      Slash R1 Sheet_2: 4023753751878436569
+      Slash R1 Sheet_10: -2175956613923201604
+      Slash R1 Sheet_8: 4591545935390048147
+      Slash R1 Sheet_20: 7010264620350256532
+      Slash R1 Sheet_1: -1693918503894509045
+      Slash R1 Sheet_7: -1070831597569876581
+      Slash R1 Sheet_21: 6327480598375559705
+      Slash R1 Sheet_13: 218041537932440330
+      Slash R1 Sheet_0: 8200077904604207666
+      Slash R1 Sheet_18: 3036693550718631784
+      Slash R1 Sheet_4: 8266536958198974425
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
